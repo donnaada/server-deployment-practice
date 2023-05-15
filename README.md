@@ -11,8 +11,8 @@ Hands on practice with Node.js to get started with CI and CD exercise.
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/donnaada/server-deployment-practice/actions)
-- [back-end dev server url](https://server-deployment-practice-3tol.onrender.com)
-- [back-end prod server url](http://xyz.com)
+- [back-end dev server url](https://server-deployment-practice-dev-zr6v.onrender.com)
+- [back-end prod server url](https://server-deployment-practice-main-wgdp.onrender.com)
 
 ### Collaborators
 
